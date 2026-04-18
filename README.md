@@ -1,0 +1,1 @@
+This is just some AI Slop trying to decrypt JTEC bin files for tuning or changes. Available mostly for XJ's, ZJ's Maybe TJ's (has to be jtec), and dodge rams. You can use these address to make your on XDF file and use tuner pro with a bin file to make tables and scalars. I personally dedicated no skill to this and I just let AI rip into a bin file and start mapping out tables.
